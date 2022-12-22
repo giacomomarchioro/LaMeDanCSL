@@ -1,0 +1,161 @@
+= Bibliografia catalogo LaMeDan forma autore anno e note per l’inserimento dei dati in Zotero
+Versione 2021.09.30
+:toc:
+
+== Norme generali
+
+Ogni riferimento bibliografico deve essere controllato e riportato alle
+presenti norme.
+
+=== Uso delle maiuscole
+
+Si usano le maiuscole secondo le moderne regole ortografiche della
+specifica lingua.
+
+====
+Es.: sostantivi di riferimenti bibliografici in tedesco vanno con
+iniziale maiuscola
+====
+
+
+====
+Es.: iniziali delle parole nei titoli che nei riferimenti bibliografici
+inglesi vengono messe in maiuscolo devono essere riportate in minuscolo
+====
+
+
+Per i titoli di riviste o collane si usano le iniziali maiuscole per
+ogni termine, a eccezione di articoli e proposizioni
+
+====
+Es.: «Atti dell’Accademia Roveretana degli Agiati», non «Atti
+dell’Accademia roveretana degli Agiati»
+====
+
+
+=== Indicazioni di numerali e ordinali
+
+Numerali e ordinali si riportano così come contenuti nella fonte.
+
+====
+Es.: p. XLI-XLII
+====
+====
+Es.: se il numero della serie è indicato come “XLVI” riportare come tale
+e non uniformare a “46”
+====
+
+
+=== Sottotitoli
+
+Eventuali sottotitoli o sezioni (sia in monografie sia in serie o
+periodici) si separano dal titolo principale con un punto.
+
+====
+Es.: Titolo principale. Titolo subordinato
+====
+
+
+NOTE: Nel caso di sezione di periodico o di serie, si separa questa dalla
+parte principale con un punto.
+====
+Es.: «Atti della Società Tale. Sezione di Arte»
+====
+====
+Es.: Collana di Studi Vari. Umanistica
+====
+
+
+=== Editore e luogo di edizione
+
+Nel caso di più editori, inserirli separandoli con punto e virgola,
+nello stesso ordine in cui poi si inseriscono i luoghi di edizione.
+
+Se libri antichi, inserirli con le formule introduttive utilizzate nel
+testo
+
+====
+Es.: presso Pinco Pallo stampatore
+====
+
+
+=== Luogo di edizione
+
+Nel caso di più editori, inserirli separandoli con punto e virgola,
+nello stesso ordine in cui poi si inseriscono i luoghi di edizione.
+
+Se libri antichi, mantenere la forma indicata nel testo senza
+uniformarla alla forma moderna.
+
+=== Pagine
+
+Separare le pagine con trattino breve, senza spazi
+
+====
+Es.: 123-124, non 123 - 124 o 123–124 o 123 – 124
+====
+
+
+=== TAG
+
+Nella sezione TAG si inserisce il numero di codice della Capitolare a
+cui la voce bibliografica si riferisce, con l’antica collocazione tra
+parentesi
+
+====
+Es. DCCCXLIX (DCCCLIII)
+====
+
+
+=== NOTE
+
+Nella sezione NOTE si inserisce il rimando alla specifica parte di
+quell’opera e alla specifica descrizione interna a cui si si riferisce,
+con indicazione delle carte e della partizione tra parentesi (ipotesi da
+valutare: più probabilmente si inserirà direttamente nella descrizione
+interna)
+
+====
+Es.: X, CXXXVI, in ms DCCCXLIX (DCCCLIII), fasc. I, cc. 11r-v (1.2); cc.
+11v-12r (1.3)
+====
+
+== Norme specifiche per tipologia
+
+=== Articolo in periodico specializzato
+Fare attenzione alla gestione di sezioni subordinate, da riportare alle norme
+generali, così come alla numerazione dei volumi e fascicoli.
+
+=== Intervento in atti di Convegno
+
+_Tipo di oggetto_: Sezione di libro (da preferire a Atto di convegno)
+
+_Titolo del libro_: inserire il titolo degli atti, facendolo seguire
+eventualmente dalla specificazione (Es.: Il fagiolino di Vattelapesca.
+Atti del III convegno sulle DOP venete)
+
+_Serie_: inserire qui se il convegno ha un titolo proprio ed è inserito
+all’interno di una collana (Es.: Settimane di studio della Fondazione
+Centro Italiano di Studi sull’Alto Medioevo); se gli atti fossero stati
+pubblicati come numero monografico di una rivista, inserire il titolo di
+questa tra caporali («Titolo»)
+
+_Numero della serie_: inserire l’eventuale numero della serie in
+ordinali
+
+=== Atti di Convegno
+
+_Tipo di oggetto_: libro (da preferire a Atto di Convegno)
+
+_Titolo del libro_: inserire il titolo degli atti, facendolo seguire
+eventualmente dalla specificazione (Es.: Il fagiolino di Vattelapesca.
+Atti del III convegno sulle DOP venete)
+
+_Serie_: inserire qui se il convegno ha un titolo proprio ed è inserito
+all’interno di una collana (Es.: Settimane di studio della Fondazione
+Centro Italiano di Studi sull’Alto Medioevo)
+
+_Numero della serie_: inserire l’eventuale numero della serie in
+ordinali
+
+_Curatore_: inserire i nomi dei curatori come tali (non come autori).
